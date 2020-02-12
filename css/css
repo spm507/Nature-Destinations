@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#nature-list {
+  width: 30%;
+  display: inline-block;
+  float: center;
+  text-align: center;
+}
+
+#nature-pics {
+  width: 100%;
+  height: 1000px;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.nature-list-item {
+   border: 1px solid #ccc;
+   padding: 8px;
+   border-radius: 6px;
+   margin-bottom: 10px;
+}
+
+.nature-list-item:hover {
+   background-color: #eee;
+   cursor: pointer;
+}
+
+
+
+/* select all p tags that have class artist-name
+ */
+p {
+  margin: 0;
+}
+
+.nature-list-item .place-name {
+  font-size: .7rem
