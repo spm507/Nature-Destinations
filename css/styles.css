@@ -38,7 +38,7 @@ button:focus {
   display: inline-block;
   float: center;
   text-align: center;
-  background: #0276FD
+
 
 }
 
@@ -55,6 +55,7 @@ button:focus {
    padding: 8px;
    border-radius: 6px;
    margin-bottom: 10px;
+   background: #0276FD
 
 }
 
