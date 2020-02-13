@@ -23,7 +23,7 @@ $('#shake').click(function() {
 
 function bounce(thing) {
   var interval = 300;
-  var distance = 50;
+  var distance = 500;
   var times = 10;
   var damping = 0.8;
 
