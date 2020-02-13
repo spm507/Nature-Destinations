@@ -54,11 +54,11 @@ button:focus {
    padding: 8px;
    border-radius: 6px;
    margin-bottom: 10px;
-   
+
 }
 
 .nature-list-item:hover {
-   background-color: #ccc;
+   background-color: #eee;
    cursor: pointer;
 }
 
