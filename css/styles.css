@@ -38,7 +38,7 @@ button:focus {
   display: inline-block;
   float: center;
   text-align: center;
-  
+
 }
 
 #nature-pics {
@@ -54,11 +54,11 @@ button:focus {
    padding: 8px;
    border-radius: 6px;
    margin-bottom: 10px;
-   background: #ccc
+   
 }
 
 .nature-list-item:hover {
-   background-color: #eee;
+   background-color: #ccc;
    cursor: pointer;
 }
 
