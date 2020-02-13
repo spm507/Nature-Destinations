@@ -21,7 +21,6 @@ $('#shake').click(function() {
   }
 })
 
-
 function bounce(thing) {
   var interval = 100;
   var distance = 20;
