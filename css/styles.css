@@ -1,4 +1,7 @@
 body
+
+
+
 {
   background-image: url("https://i0.wp.com/geoawesomeness.com/wp-content/uploads/2017/04/Authagraph.jpg");
   background-size: cover;
@@ -7,6 +10,27 @@ body
   font-family:sans-serif;
   font-size:30px;
 }
+
+
+.plane {
+  position: relative;
+  height: 300px;
+  width: 300px;
+}
+
+button:hover {
+  background: PowderBlue;
+}
+
+button:active {
+  background: #fff;
+  border: 2px solid #ccc;
+}
+
+button:focus {
+  outline: none;
+}
+
 
 {
   font-family: sans-serif;
