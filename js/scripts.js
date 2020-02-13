@@ -22,9 +22,9 @@ $('#shake').click(function() {
 })
 
 function bounce(thing) {
-  var interval = 100;
-  var distance = 20;
-  var times = 8;
+  var interval = 300;
+  var distance = 50;
+  var times = 10;
   var damping = 0.8;
 
   for (var i = 0; i < (times + 1); i++) {
