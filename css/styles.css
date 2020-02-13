@@ -38,6 +38,7 @@ button:focus {
   display: inline-block;
   float: center;
   text-align: center;
+  background: #ccc
 }
 
 #nature-pics {
